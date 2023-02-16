@@ -16,7 +16,6 @@
 .u-section-1 .u-btn-1 {
   font-weight: 700;
   text-transform: uppercase;
-  background-image: none;
   margin: 40px auto 0;
 }
 
@@ -37,6 +36,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 90px;
+    font-size: 1rem;
   }
 
   .u-section-1 .u-text-2 {
